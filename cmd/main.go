@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"github.com/Stephen882-pixel/ecom/cmd/api"
+	"github.com/Stephen882-pixel/golang_ecom/cmd/api"
 )
 
 func main() {
